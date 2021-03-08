@@ -1,6 +1,6 @@
 1.**Ivan Piskun**
 
-2.Contacts:\
+2.Contact:\
 email vanpiskun@gmail.com
 
 3.I have confident knowledge in Frontend software development and considerable practical skills in coding in JS. I am responsible and fulfilling, and also I have good analytical skills. I am easy to train, patient and very attentive to work.
